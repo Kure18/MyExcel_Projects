@@ -20,3 +20,16 @@
     Note:From this stage i had to create another sheet called the pivot table in which i had select
     -data--insert--pivot table
     Furtheremore i had to create a dashboard sheet in which i had to provide a copy of all my visualization
+
+FOR WORLD POPULATION DATASET
+1.Deleting duplicates
+Using the following buttons on the ribbon 
+  -data--remove duplicates(i found out that the data was pretty much clean so their no duplicates to be deleted)
+  2.Standardizing the format for each column
+  I found out that the names format were properly fed into the table.
+  3.I had to inspect each column to ascertain that all the columns have a consistent format.
+  4.Created a column called "Population Increase since 70's to 2k22" with the following code
+  =F2-M2
+  Note:That it was created on the worksheet
+  5.The pivot table was created for the various graphs to be displayed on the "Dashboard" sheet
+  
